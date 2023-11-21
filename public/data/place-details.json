@@ -1,0 +1,25 @@
+{
+  "result": {
+    "place_id": "YWGcWUaDU5o6s1Nes0mfxESLRnOwT_CdZeVFLYFMXj-tpoDF0hhTxg32vHFWyZIOEc6Oxgg5V-PB_swFOtRax9H7FN1WvSa3qZ7RBRqNzg-pmmRVOtRWTg2SxPk6DFPjD",
+    "formatted_address": "Trường Tiểu học Võ Thị Sáu, R6 Đặng Đại Độ, Tân Phong, Quận 7, Hồ Chí Minh",
+    "geometry": {
+      "location": {
+        "lat": 10.733219478000024,
+        "lng": 106.71091259700006
+      }
+    },
+    "plus_code": {
+      "compound_code": "+8XZP Tân Phong, Quận 7, Hồ Chí Minh",
+      "global_code": "469YT+8XZP"
+    },
+    "compound": {
+      "district": "Quận 7",
+      "commune": "Tân Phong",
+      "province": "Hồ Chí Minh"
+    },
+    "name": "Trường Tiểu học Võ Thị Sáu",
+    "url": "https://maps.goong.io/?pid=YWGcWUaDU5o6s1Nes0mfxESLRnOwT_CdZeVFLYFMXj-tpoDF0hhTxg32vHFWyZIOEc6Oxgg5V-PB_swFOtRax9H7FN1WvSa3qZ7RBRqNzg-pmmRVOtRWTg2SxPk6DFPjD",
+    "types": ["primary_school"]
+  },
+  "status": "OK"
+}

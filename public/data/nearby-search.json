@@ -1,0 +1,236 @@
+{
+  "predictions": [
+    {
+      "description": "Trường Tiểu học Võ Thị Sáu, R6 Đặng Đại Độ, Tân Phong, Quận 7, Hồ Chí Minh",
+      "matched_substrings": [],
+      "place_id": "YWGcWUaDU5o6s1Nes0mfxESLRnOwT_CdZeVFLYFMXj-tpoDF0hhTxg32vHFWyZIOEc6Oxgg5V-PB_swFOtRax9H7FN1WvSa3qZ7RBRqNzg-pmmRVOtRWTg2SxPk6DFPjD",
+      "reference": "YWGcWUaDU5o6s1Nes0mfxESLRnOwT_CdZeVFLYFMXj-tpoDF0hhTxg32vHFWyZIOEc6Oxgg5V-PB_swFOtRax9H7FN1WvSa3qZ7RBRqNzg-pmmRVOtRWTg2SxPk6DFPjD",
+      "structured_formatting": {
+        "main_text": "Trường Tiểu học Võ Thị Sáu",
+        "main_text_matched_substrings": [],
+        "secondary_text": "R6 Đặng Đại Độ, Tân Phong, Quận 7, Hồ Chí Minh",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": true,
+      "plus_code": {
+        "compound_code": "+8XZP Tân Phong, Quận 7, Hồ Chí Minh",
+        "global_code": "469YT+8XZP"
+      },
+      "compound": {
+        "district": "Quận 7",
+        "commune": "Tân Phong",
+        "province": "Hồ Chí Minh"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Trường Tiểu học Võ Thị Sáu"
+        },
+        {
+          "offset": 38,
+          "value": "R6 Đặng Đại Độ"
+        },
+        {
+          "offset": 63,
+          "value": "Tân Phong"
+        },
+        {
+          "offset": 75,
+          "value": "Quận 7"
+        },
+        {
+          "offset": 85,
+          "value": "Hồ Chí Minh"
+        }
+      ],
+      "types": ["primary_school"],
+      "distance_meters": null
+    },
+    {
+      "description": "Trường Tiểu học Rạch Ông, 284 Dương Bá Trạc, Phường 2, Quận 8, Hồ Chí Minh",
+      "matched_substrings": [],
+      "place_id": "NZbRunxBjKJyrncrv36--2W_0IgyLfa7_cL1wS6a-jEFbgo8SQKeUWVuTJg2JGYDzbbxFKqVshPNlr2sVv0GI9lqwYwqKUYjEaKBaTmt8jJNprG6MGknlnGu-GjGMG_fM",
+      "reference": "NZbRunxBjKJyrncrv36--2W_0IgyLfa7_cL1wS6a-jEFbgo8SQKeUWVuTJg2JGYDzbbxFKqVshPNlr2sVv0GI9lqwYwqKUYjEaKBaTmt8jJNprG6MGknlnGu-GjGMG_fM",
+      "structured_formatting": {
+        "main_text": "Trường Tiểu học Rạch Ông",
+        "main_text_matched_substrings": [],
+        "secondary_text": "284 Dương Bá Trạc, Phường 2, Quận 8, Hồ Chí Minh",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": true,
+      "plus_code": {
+        "compound_code": "+6GBB Phường 2, Quận 8, Hồ Chí Minh",
+        "global_code": "46A3Z+6GBB"
+      },
+      "compound": {
+        "district": "Quận 8",
+        "commune": "Phường 2",
+        "province": "Hồ Chí Minh"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Trường Tiểu học Rạch Ông"
+        },
+        {
+          "offset": 35,
+          "value": "284 Dương Bá Trạc"
+        },
+        {
+          "offset": 59,
+          "value": "Phường 2"
+        },
+        {
+          "offset": 72,
+          "value": "Quận 8"
+        },
+        {
+          "offset": 82,
+          "value": "Hồ Chí Minh"
+        }
+      ],
+      "types": ["primary_school"],
+      "distance_meters": null
+    },
+    {
+      "description": "Trường Tiểu học Hưng Phú, 692B Hưng Phú, Phường 10, Quận 8, Hồ Chí Minh",
+      "matched_substrings": [],
+      "place_id": "i5lOYFi6ZnyVUnEofsE6cgX6vVkCCTo_eOsdwZbNOm-odYV4jsrOb_1Fxe7ENcarIYaJksqlOoSVSsMUasGyP2lGZVQ2FT7n8Z6NVQYNzg-pmmUYVtRWTg2SxTj6DFPjD",
+      "reference": "i5lOYFi6ZnyVUnEofsE6cgX6vVkCCTo_eOsdwZbNOm-odYV4jsrOb_1Fxe7ENcarIYaJksqlOoSVSsMUasGyP2lGZVQ2FT7n8Z6NVQYNzg-pmmUYVtRWTg2SxTj6DFPjD",
+      "structured_formatting": {
+        "main_text": "Trường Tiểu học Hưng Phú",
+        "main_text_matched_substrings": [],
+        "secondary_text": "692B Hưng Phú, Phường 10, Quận 8, Hồ Chí Minh",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": true,
+      "plus_code": {
+        "compound_code": "+6FUA Phường 10, Quận 8, Hồ Chí Minh",
+        "global_code": "46A4F+6FUA"
+      },
+      "compound": {
+        "district": "Quận 8",
+        "commune": "Phường 10",
+        "province": "Hồ Chí Minh"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Trường Tiểu học Hưng Phú"
+        },
+        {
+          "offset": 34,
+          "value": "692B Hưng Phú"
+        },
+        {
+          "offset": 51,
+          "value": "Phường 10"
+        },
+        {
+          "offset": 65,
+          "value": "Quận 8"
+        },
+        {
+          "offset": 75,
+          "value": "Hồ Chí Minh"
+        }
+      ],
+      "types": ["primary_school"],
+      "distance_meters": null
+    },
+    {
+      "description": "Trường Tiểu học Bùi Văn Ba, 6 Trần Thị Tao, Phước Kiển, Nhà Bè, Hồ Chí Minh",
+      "matched_substrings": [],
+      "place_id": "sp9IqUiFYIVTnVA9HsxGr-VS1U0C3TqPYZ6ZcPWJPneyyqVA8ZBO_92KmX0ONE6Cye7dYMYRIiYFii1dBtoWFzGS5ZUaAWGeAmjhTR4WaYex1pUATsxOVhWI8t7dIEv7F",
+      "reference": "sp9IqUiFYIVTnVA9HsxGr-VS1U0C3TqPYZ6ZcPWJPneyyqVA8ZBO_92KmX0ONE6Cye7dYMYRIiYFii1dBtoWFzGS5ZUaAWGeAmjhTR4WaYex1pUATsxOVhWI8t7dIEv7F",
+      "structured_formatting": {
+        "main_text": "Trường Tiểu học Bùi Văn Ba",
+        "main_text_matched_substrings": [],
+        "secondary_text": "6 Trần Thị Tao, Phước Kiển, Nhà Bè, Hồ Chí Minh",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": true,
+      "plus_code": {
+        "compound_code": "+NZDB Phước Kiển, Nhà Bè, Hồ Chí Minh",
+        "global_code": "46C49+NZDB"
+      },
+      "compound": {
+        "district": "Nhà Bè",
+        "commune": "Phước Kiển",
+        "province": "Hồ Chí Minh"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Trường Tiểu học Bùi Văn Ba"
+        },
+        {
+          "offset": 36,
+          "value": "6 Trần Thị Tao"
+        },
+        {
+          "offset": 56,
+          "value": "Phước Kiển"
+        },
+        {
+          "offset": 73,
+          "value": "Nhà Bè"
+        },
+        {
+          "offset": 83,
+          "value": "Hồ Chí Minh"
+        }
+      ],
+      "types": ["primary_school"],
+      "distance_meters": null
+    },
+    {
+      "description": "Trường Tiểu học Phú Thuận, 38B Nguyễn Văn Quỳ, Phú Thuận, Quận 7, Hồ Chí Minh",
+      "matched_substrings": [],
+      "place_id": "gWkcdqu1i0R3kGYzvEC71mi5TDyJHbvMdWsjFqBEgsB3H7opjHqGiliHQ0--HvrhbaluDbmliZZpQo5MjjBAiXS4JpC_TYXUbalfS4l5ieBsk0wfvx-ZiW67RDSJ5HvLJ",
+      "reference": "gWkcdqu1i0R3kGYzvEC71mi5TDyJHbvMdWsjFqBEgsB3H7opjHqGiliHQ0--HvrhbaluDbmliZZpQo5MjjBAiXS4JpC_TYXUbalfS4l5ieBsk0wfvx-ZiW67RDSJ5HvLJ",
+      "structured_formatting": {
+        "main_text": "Trường Tiểu học Phú Thuận",
+        "main_text_matched_substrings": [],
+        "secondary_text": "38B Nguyễn Văn Quỳ, Phú Thuận, Quận 7, Hồ Chí Minh",
+        "secondary_text_matched_substrings": []
+      },
+      "has_children": true,
+      "plus_code": {
+        "compound_code": "+HKYR Phú Thuận, Quận 7, Hồ Chí Minh",
+        "global_code": "469YF+HKYR"
+      },
+      "compound": {
+        "district": "Quận 7",
+        "commune": "Phú Thuận",
+        "province": "Hồ Chí Minh"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Trường Tiểu học Phú Thuận"
+        },
+        {
+          "offset": 36,
+          "value": "38B Nguyễn Văn Quỳ"
+        },
+        {
+          "offset": 22,
+          "value": "Phú Thuận"
+        },
+        {
+          "offset": 75,
+          "value": "Quận 7"
+        },
+        {
+          "offset": 85,
+          "value": "Hồ Chí Minh"
+        }
+      ],
+      "types": ["primary_school"],
+      "distance_meters": null
+    }
+  ],
+  "execution_time": "",
+  "status": "OK"
+}
